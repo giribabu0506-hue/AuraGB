@@ -1,2 +1,2 @@
 # AuraGB
-Hello world 
+ add x y(addition programming syntax 
