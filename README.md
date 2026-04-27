@@ -1,4 +1,8 @@
-# AuraGB created by Mekala GiriBabu india
+# ## 👨‍💻 Author
+
+AuraGB programming language was created and developed by Giri Babu.
+
+This is a custom programming language project focused on UI-based structured programming and embedded system interaction. created by Mekala GiriBabu india
  add x y(addition programming syntax 
 # AuraGB Programming Language
 
