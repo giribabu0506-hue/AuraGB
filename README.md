@@ -1,4 +1,4 @@
-# AuraGB
+# AuraGB created by Mekala GiriBabu india
  add x y(addition programming syntax 
 # AuraGB Programming Language
 
